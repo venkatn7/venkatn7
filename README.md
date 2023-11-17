@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @venkatn7
 - 👀 I’m interested in solving simple missing gaps in simple way.
 - 🌱 I’m currently learning full stack development with Vuejs and Flask.
-- 💞️ I’m looking to collaborate on network automation projects and Flask API development.
-- 📫 How to reach me! email: venkat@firewalllessons.com
+- 💞️ Professionaly working as ServiceNow Developer.
+- 📫 How to reach me! email: venkatg.snow@gmail.com
 
 <!---
 venkatn7/venkatn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
